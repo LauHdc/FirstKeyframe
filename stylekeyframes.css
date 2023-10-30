@@ -1,0 +1,15 @@
+img {
+    
+    margin-top: 389px;
+    margin-left: 0px;
+    width: 212px; height: 243px;
+    
+    animation: superman 15s linear;
+}
+
+
+@keyframes superman {
+    
+    from {margin-top: 389px; margin-left: 0px; width: 212px; height: 243px;}
+    to {margin-top: 0px; margin-left: 1300px; width: 50px; height: 50px;}
+}
